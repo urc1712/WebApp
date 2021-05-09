@@ -61,7 +61,7 @@
     <!-- Example row of columns -->
     <div class="row">
         <div class="col-md-4">
-            <h2>Kallis</h2>
+            <h2 style="color:blue;>Kallis</h2>
             <p>Techie1</p>
             <p><a class="btn btn-default" href="#" role="button">Kallis &raquo;</a></p>
         </div>
